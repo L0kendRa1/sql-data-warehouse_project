@@ -34,15 +34,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🛠️ Technology Stack
-*Showcasing the tools used to execute this project:*
-- **Database:** SQL Server
-- **Data Processing & ETL:** [e.g., SQL, Python, Pandas]
-- **Data Visualization:** [e.g., Power BI, Tableau, Excel]
-
-## 📂 Repository Structure
-```text
-├── data/                   # Sample CSV files (ERP and CRM data)
-├── sql_scripts/            # SQL code for data cleaning and table creation
-├── dashboards/             # Images or PDF exports of the final visual reports
-└── README.md               # Project documentation
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
