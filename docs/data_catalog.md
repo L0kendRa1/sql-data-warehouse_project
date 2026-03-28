@@ -2,7 +2,7 @@
 
 The Gold Layer represents the final, business-ready data. It is structured using a Star Schema with **Dimension** and **Fact** tables.
 
----## 1. gold.dim_customers
+## 1. gold.dim_customers
 
 **Purpose:** Stores customer details enriched with demographic and geographic data.
 
